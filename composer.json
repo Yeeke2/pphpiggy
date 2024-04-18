@@ -1,0 +1,12 @@
+{
+    "name": "praktykanci/phpiggy",
+    "description": "A PHP application for tracking expenses.",
+    "type": "project",
+    "require": {},
+    "autolad":{
+        "psr-4": {
+            "FrameWork\\": "src/FrameWork",
+            "App\\": "src/App"
+        }
+    }
+}
